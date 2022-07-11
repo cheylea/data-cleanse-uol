@@ -432,9 +432,9 @@ data = data.replace({"Title_clean": title_dict})
 data = data.replace({"HQL_clean": hql_dict})
 
 # Remove remaining redundant columns
-data = data.drop(columns=['ID', 'Name', 'Title', 'LWD', 'Highest Qualification Level',
-                          'Highest Qualification', 'HQ_clean', 'Major', 'University',
-                          'All Qualifications', 'Courses Taught',
+data = data.drop(columns=['ID', 'Name', 'Title', 'Join Date', 'LWD',
+                          'Highest Qualification Level', 'Highest Qualification', 'HQ_clean',
+                          'Major', 'University', 'All Qualifications', 'Courses Taught',
                           'MAJOR TEACHING FIELD', 'Other Experience', 'Criteria'])
 
 # Count Missing
