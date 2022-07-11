@@ -1,4 +1,10 @@
-## Importing and Data Preparation
+'''
+    File name: python_clean.py
+    Author: Cheylea Hopkinson
+    Python Version: 3.9.12
+'''
+# Importing and Data Preparation #
+# =============================================================================
 
 # Import Packages
 import numpy as np
@@ -13,7 +19,20 @@ data = pd.read_csv('source_data\SIS_Faculty-List.csv', encoding='utf-8')
 # Remove new lines from column names
 data.columns = data.columns.str.replace('\n', ' ')
 # Update Long Column Name
-data.columns = data.columns.str.replace('DOCUMENT OTHER PROFESSIONAL CERTIFICATION CRITIERA Five Years Work Experience Teaching Excellence Professional Certifications', 'Other Experience')
+data.columns = data.columns.str.replace('DOCUMENT OTHER PROFESSIONAL '
+                                        'CERTIFICATION CRITIERA '
+                                        'Five Years Work '
+                                        'Experience Teaching '
+                                        'Excellence Professional '
+                                        'Certifications',
+                                        'Other Experience')
+data.columns = data.columns.str.replace('Courses Taught- '
+                                        'Term 201510',
+                                        'Courses Taught')
+data.columns = data.columns.str.replace('All Qualifications '
+                                        'from Profile',
+                                        'All Qualifications')
+
 
 # Trim all remaining columns that are strings
 data['Name'] = data['Name'].str.strip()
@@ -23,8 +42,8 @@ data['Reports To'] = data['Reports To'].str.strip()
 data['Highest Qualification'] = data['Highest Qualification'].str.strip()
 data['Major'] = data['Major'].str.strip()
 data['University'] = data['University'].str.strip()
-data['All Qualifications from Profile'] = data['All Qualifications from Profile'].str.strip()
-data['Courses Taught- Term 201510'] = data['Courses Taught- Term 201510'].str.strip()
+data['All Qualifications'] = data['All Qualifications'].str.strip()
+data['Courses Taught'] = data['Courses Taught'].str.strip()
 data['MAJOR TEACHING FIELD'] = data['MAJOR TEACHING FIELD'].str.strip()
 data['Other Experience'] = data['Other Experience'].str.strip()
 data['Criteria'] = data['Criteria'].str.strip()
@@ -41,14 +60,15 @@ u_id = data.index
 data.insert(0, 'u_id', u_id)
 
 
-## Data Analysis
+# Data Analysis
+# =============================================================================
 
 # Get total number of rows
 total = len(data)
-print("Total Number of Rows",total)
+print("Total Number of Rows", total)
 
-#Summarise the data
-data.describe(include = 'O')
+# Summarise the data
+data.describe(include='O')
 
 # Print the counts for each of the values within the columns
 print(data['Grade'].value_counts())
@@ -57,7 +77,7 @@ print(data['Type'].value_counts())
 print(data['Divison'].value_counts())
 
 # Drop irrelevant columns Grade, Type, Division
-data = data.drop(columns=['Grade','Type','Divison'])
+data = data.drop(columns=['Grade', 'Type', 'Divison'])
 
 # Count Missing
 count_missing = data.isnull().sum()
@@ -66,17 +86,20 @@ total = len(data)
 percent_missing = (count_missing/total) * 100
 print(percent_missing)
 
-## Extracting Information from Data
+# Extracting Information from Data
+# =============================================================================
 
 # Courses Table
 # Split out the courses in new columns
-courses_t  = data['Courses Taught- Term 201510'].str.split(',|\n', expand=True)
+courses_t = data['Courses Taught'].str.split(',|\n', expand=True)
 
 # Ensure the unique id is added to the new dataframe
 courses_t.insert(0, 'u_id', u_id)
 
 # Transform the new dataframe so the columns become rows
-courses_t = courses_t.melt(id_vars=['u_id'], var_name='column', value_name='Course')
+courses_t = courses_t.melt(id_vars=['u_id'],
+                           var_name='column',
+                           value_name='Course')
 
 # Remove empty rows
 courses_t = courses_t[~courses_t['Course'].isnull()]
@@ -90,11 +113,11 @@ courses_t.to_csv('cleaned_data\courses_table.csv')
 courses_t.head()
 
 # Convert the column to a list of courses and split by new line and space
-courses_list = data['Courses Taught- Term 201510'].to_list()
+courses_list = data['Courses Taught'].to_list()
 courses_list_keywords = []
-for x in range(0,len(courses_list)-1):
+for x in range(0, len(courses_list)-1):
     y = str(courses_list[x])
-    courses_list_keywords.append(re.split(r' |\n',y))
+    courses_list_keywords.append(re.split(r' |\n', y))
 
 # Count the occurance of each of the keywords
 courses_list_keywords = [x for y in courses_list_keywords for x in y]
@@ -110,34 +133,45 @@ for x in items:
 
 # Clean Courses
 # Adding a '1' for yes where the keyword exists in the courses taught column
-data['taught_business'] = np.where(data['Courses Taught- Term 201510'].str.contains('Business') |
-                                   data['Courses Taught- Term 201510'].str.contains('Busi '), 1, 0)
+data['t_business'] = np.where(data['Courses Taught'].str.contains('Business') |
+                              data['Courses Taught'].str.contains('Busi '),
+                              1, 0)
 
-data['taught_management'] = np.where(data['Courses Taught- Term 201510'].str.contains('Manag') |
-                                     data['Courses Taught- Term 201510'].str.contains('Mgmnt') |
-                                     data['Courses Taught- Term 201510'].str.contains('Mgt'), 1, 0)
+data['t_management'] = np.where(data['Courses Taught'].str.contains('Manag') |
+                                data['Courses Taught'].str.contains('Mgmnt') |
+                                data['Courses Taught'].str.contains('Mgt'),
+                                1, 0)
 
-data['taught_accounting'] = np.where(data['Courses Taught- Term 201510'].str.contains('Accounting'), 1, 0)
+data['t_account'] = np.where(data['Courses Taught'].str.contains('Accounting'),
+                             1, 0)
 
-data['taught_finance'] = np.where(data['Courses Taught- Term 201510'].str.contains('Financ'), 1, 0)
+data['t_finance'] = np.where(data['Courses Taught'].str.contains('Financ'),
+                             1, 0)
 
-data['taught_marketing'] = np.where(data['Courses Taught- Term 201510'].str.contains('Marketing'), 1, 0)
+data['t_market'] = np.where(data['Courses Taught'].str.contains('Marketing'),
+                            1, 0)
 
 # Print the counts for each of the values within the columns
 print(data['Title'].value_counts())
 
 # Clean Title
 data['Title_clean'] = np.where(data['Title'].str.contains('HR') &
-                               data['Title'].str.contains('Business'), 'Business (HR & Admin)',
+                               data['Title'].str.contains('Business'),
+                               'Business (HR & Admin)',
                       np.where(data['Title'].str.contains('Admin') &
-                               data['Title'].str.contains('Business'), 'Business (Admin)',
+                               data['Title'].str.contains('Business'),
+                               'Business (Admin)',
                       np.where(data['Title'].str.contains('Comp') &
                                data['Title'].str.contains('Business') &
-                               data['Title'].str.contains('Math'), 'Business, Comp & Math',
+                               data['Title'].str.contains('Math'),
+                               'Business, Comp & Math',
                       np.where(data['Title'].str.contains('Comp Lit') &
-                               data['Title'].str.contains('Business'), 'Business & Comp Lit',
-                      np.where(data['Title'].str.contains('Trainee'), 'Trainee',
-                      np.where(data['Title'].str.contains('Business'), 'Business', 'Other'))))))
+                               data['Title'].str.contains('Business'),
+                               'Business & Comp Lit',
+                      np.where(data['Title'].str.contains('Trainee'),
+                               'Trainee',
+                      np.where(data['Title'].str.contains('Business'),
+                               'Business', 'Other'))))))
 
 # Clean Highest Qualification
 # Print the counts for each of the values within the columns
@@ -147,31 +181,41 @@ print(data['Highest Qualification Level'].value_counts())
 print(data['Highest Qualification'].value_counts())
 
 # Clean Highest Qualification Level
-data['HQL_clean'] = np.where(data['Highest Qualification Level'].isna() & 
-                             data['All Qualifications from Profile'].str.contains('Ph.D'),'Doctorate',
-                    np.where(data['Highest Qualification Level'].isna() & 
-                             data['All Qualifications from Profile'].str.contains('Master'),'Masters',
-                    np.where(data['Highest Qualification Level'].isna() & 
-                             data['All Qualifications from Profile'].str.contains('Bachelor'),'Bachelors', 
-                    np.where(data['Highest Qualification Level'].str.contains('Master'), 'Masters',
+data['HQL_clean'] = np.where(data['Highest Qualification Level'].isna() &
+                             data['All Qualifications'].str.contains('Ph.D'),
+                             'Doctorate',
+                    np.where(data['Highest Qualification Level'].isna() &
+                             data['All Qualifications'].str.contains('Master'),
+                             'Masters',
+                    np.where(data['Highest Qualification Level'].isna() &
+                             data['All Qualifications'].str.contains('Bachelor'),
+                             'Bachelors',
+                    np.where(data['Highest Qualification Level'].str.contains('Master'),
+                    'Masters',
                     np.where(data['Highest Qualification Level'].str.contains('Ph.D') |
-                             data['Highest Qualification Level'].str.contains('PhD'), 'Doctorate',
-                    np.where(data['Highest Qualification Level'].str.contains('MBA'), 'Masters',
+                             data['Highest Qualification Level'].str.contains('PhD'),
+                             'Doctorate',
+                    np.where(data['Highest Qualification Level'].str.contains('MBA'),
+                    'Masters',
                     np.where(data['Highest Qualification Level'].str.contains('Doctor') &
                             (data['Highest Qualification'].str.contains('Ph.D') |
-                             data['Highest Qualification'].str.contains('philosophy')), 'Doctorate',
-                    np.where(data['Highest Qualification Level'].str.contains('Doctor'), 'Doctorate',
-                    np.where(data['Highest Qualification'].str.contains('Doctor'), 'Doctorate',
-                    np.where(data['Highest Qualification Level'].str.contains('Bachelor'), 'Bachelors',
+                             data['Highest Qualification'].str.contains('philosophy')),
+                             'Doctorate',
+                    np.where(data['Highest Qualification Level'].str.contains('Doctor'),
+                    'Doctorate',
+                    np.where(data['Highest Qualification'].str.contains('Doctor'),
+                    'Doctorate',
+                    np.where(data['Highest Qualification Level'].str.contains('Bachelor'),
+                    'Bachelors',
                              'Unknown'))))))))))
 
 # Clean Highest Qualification
-data['HQ_clean'] = np.where(data['Highest Qualification Level'].isna() & 
-                             data['All Qualifications from Profile'].str.contains('Ph.D'),'Ph.D',
-                    np.where(data['Highest Qualification Level'].isna() & 
-                             data['All Qualifications from Profile'].str.contains('Master'),'Masters',
-                    np.where(data['Highest Qualification Level'].isna() & 
-                             data['All Qualifications from Profile'].str.contains('Bachelor'),'Bachelors',
+data['HQ_clean'] = np.where(data['Highest Qualification Level'].isna() &
+                             data['All Qualifications'].str.contains('Ph.D'), 'Ph.D',
+                    np.where(data['Highest Qualification Level'].isna() &
+                             data['All Qualifications'].str.contains('Master'), 'Masters',
+                    np.where(data['Highest Qualification Level'].isna() &
+                             data['All Qualifications'].str.contains('Bachelor'), 'Bachelors',
                     np.where(data['Highest Qualification'].str.contains('Master of Arts'), 'Master of Arts',
                     np.where(data['Highest Qualification'].str.contains('Master of Science'), 'Master of Science',
                     np.where(data['Highest Qualification'].str.contains('Master of Business Administrat'), 'Master of Business Administration',
@@ -199,7 +243,7 @@ data['HQ_clean'] = np.where(data['Highest Qualification Level'].isna() &
                              data['Highest Qualification'].str.contains('philosophy')), 'Ph.D',
                     np.where(data['Highest Qualification Level'].str.contains('Doctor'), 'Doctorate (Other)',
                     np.where(data['Highest Qualification'].str.contains('Doctor'), 'Doctorate (Other)',
-                    np.where(data['Highest Qualification Level'].str.contains('Bachelor'), 'Bachelors',   
+                    np.where(data['Highest Qualification Level'].str.contains('Bachelor'), 'Bachelors',
                              'Unknown'))))))))))))))))))))))))))
 
 # Get counts of values
@@ -213,7 +257,7 @@ data['HQ_clean'] = data['HQ_clean'].str.replace('Unknown', 'Masters', regex=Fals
 
 # Qualifications Table
 # Split out the courses in new columns
-qualifs = data['All Qualifications from Profile'].str.split(',', expand=True)
+qualifs = data['All Qualifications'].str.split(',', expand=True)
 
 # Ensure the unique id is added to the new dataframe
 qualifs.insert(0, 'u_id', u_id)
@@ -225,7 +269,7 @@ qualifs_t = qualifs.melt(id_vars=['u_id'], var_name='column', value_name='qualif
 qualifs_t = qualifs_t[~qualifs_t['qualif'].isnull()]
 
 # Split out qualification from subject
-qualifs_t[['Qualification','Major']] = qualifs_t['qualif'].str.split('(', 1, expand=True)
+qualifs_t[['Qualification', 'Major']] = qualifs_t['qualif'].str.split('(', 1, expand=True)
 
 # Clean up
 qualifs_t['Major'] = qualifs_t['Major'].str.replace('))', 'nnn', regex=False)
@@ -248,7 +292,16 @@ data['Other Experience'] = data['Other Experience'].str.lower()
 data['Other Experience'] = data['Other Experience'].str.replace('  ', ' ')
 
 # Split column by common phrasing
-teaching_experience = data['Other Experience'].str.split('years of high school|years high school|years school|years of school|years university|years of university|years teaching experience|years of teaching experience|years teaching|years of teaching', expand=True)
+teaching_experience = data['Other Experience'].str.split('years of high school|'
+                                                         'years high school|'
+                                                         'years school|'
+                                                         'years of school|'
+                                                         'years university|'
+                                                         'years of university|'
+                                                         'years teaching experience|'
+                                                         'years of teaching experience|'
+                                                         'years teaching|'
+                                                         'years of teaching', expand=True)
 
 # Strip out irrelevant symbols
 teaching_experience[0] = teaching_experience[0].str.replace('+', '', regex=True)
@@ -295,7 +348,13 @@ data['years_teaching'] = pd.to_numeric(data['years_teaching'])
 
 # Clean Other Experience - Professional Experience
 # Split column by common phrasing
-prof_experience = data['Other Experience'].str.split('years professional experience|years of professional experience|years professional|years of professional|years work||years industry|years of industry', expand=True)
+prof_experience = data['Other Experience'].str.split('years professional experience|'
+                                                     'years of professional experience|'
+                                                     'years professional|'
+                                                     'years of professional|'
+                                                     'years work|'
+                                                     'years industry|'
+                                                     'years of industry', expand=True)
 
 # Strip out irrelevant symbols
 prof_experience[0] = prof_experience[0].str.replace('+', '', regex=True)
@@ -344,7 +403,9 @@ data['years_prof'] = pd.to_numeric(data['years_prof'])
 data['active_researcher'] = np.where(data['Other Experience'].str.contains('active') &
                                      data['Other Experience'].str.contains('research'), 1, 0)
 
-## Converting Cleaned Columns to Machine Readable
+
+# Converting Cleaned Columns to Machine Readable
+# =============================================================================
 
 # Create dictionaries
 
@@ -371,9 +432,9 @@ data = data.replace({"Title_clean": title_dict})
 data = data.replace({"HQL_clean": hql_dict})
 
 # Remove remaining redundant columns
-data = data.drop(columns=['ID','Name','Title','LWD','Highest Qualification Level',
+data = data.drop(columns=['ID', 'Name', 'Title', 'LWD', 'Highest Qualification Level',
                           'Highest Qualification', 'HQ_clean', 'Major', 'University',
-                          'All Qualifications from Profile', 'Courses Taught- Term 201510',
+                          'All Qualifications', 'Courses Taught',
                           'MAJOR TEACHING FIELD', 'Other Experience', 'Criteria'])
 
 # Count Missing
