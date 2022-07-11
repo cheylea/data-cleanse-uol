@@ -11,6 +11,7 @@ import numpy as np
 import pandas as pd
 import re
 from collections import Counter
+from sklearn import preprocessing
 
 # Import Data
 data = pd.read_csv('source_data\SIS_Faculty-List.csv', encoding='utf-8')
@@ -407,6 +408,39 @@ data['active_researcher'] = np.where(data['Other Experience'].str.contains('acti
 # Converting Cleaned Columns to Machine Readable
 # =============================================================================
 
+# Remove remaining redundant columns
+data = data.drop(columns=['ID', 'Name', 'Title', 'Join Date', 'LWD',
+                          'Highest Qualification Level', 'Highest Qualification', 'HQ_clean',
+                          'Major', 'University', 'All Qualifications', 'Courses Taught',
+                          'MAJOR TEACHING FIELD', 'Other Experience', 'Criteria'])
+
+# Count Missing
+count_missing = data.isnull().sum()
+total = len(data)
+
+percent_missing = (count_missing/total) * 100
+print(percent_missing)
+
+# Remove null rows
+data = data.dropna()
+
+# Normalise Numerical Columns
+# Years Teaching
+years_teaching = data['years_teaching'].values
+years_teaching = years_teaching.reshape(-1, 1)
+years_teaching_n = preprocessing.MinMaxScaler().fit_transform(years_teaching)
+data['years_teaching_n'] = pd.DataFrame(years_teaching_n)
+
+# Years Professiona
+years_prof = data['years_prof'].values
+years_prof = years_prof.reshape(-1, 1)
+years_prof_n = preprocessing.MinMaxScaler().fit_transform(years_prof)
+data['years_prof_n'] = pd.DataFrame(years_prof_n)
+
+# Remove no longer required columns
+data = data.drop(columns=['years_teaching', 'years_prof'])
+
+# Encoding String Columns
 # Create dictionaries
 
 # Location
@@ -431,21 +465,24 @@ data = data.replace({"Reports To": reports_dict})
 data = data.replace({"Title_clean": title_dict})
 data = data.replace({"HQL_clean": hql_dict})
 
-# Remove remaining redundant columns
-data = data.drop(columns=['ID', 'Name', 'Title', 'Join Date', 'LWD',
-                          'Highest Qualification Level', 'Highest Qualification', 'HQ_clean',
-                          'Major', 'University', 'All Qualifications', 'Courses Taught',
-                          'MAJOR TEACHING FIELD', 'Other Experience', 'Criteria'])
+# Create dummy dataframes
+loc_dummies = pd.get_dummies(data['Location'], prefix='Location')
+rep_dummies = pd.get_dummies(data['Reports To'], prefix='Reports To')
+tit_dummies = pd.get_dummies(data['Title_clean'], prefix='Title')
+hql_dummies = pd.get_dummies(data['HQL_clean'], prefix='HQL')
 
-# Count Missing
-count_missing = data.isnull().sum()
-total = len(data)
+loc_dummies.head()
+rep_dummies.head()
+tit_dummies.head()
+hql_dummies.head()
 
-percent_missing = (count_missing/total) * 100
-print(percent_missing)
+# Join dummies back to the original dataset
+data = pd.concat([data, loc_dummies, rep_dummies, tit_dummies, hql_dummies], axis=1)
 
-# Remove null rows
-data = data.dropna()
+# Remove no longer required columns
+data = data.drop(columns=['Location', 'Reports To', 'Title_clean', 'HQL_clean'])
+
+data.head()
 
 # Save to file
-data.to_csv('cleaned_data\staff_table.csv')
+data.to_csv('cleaned_data\student_table.csv')
