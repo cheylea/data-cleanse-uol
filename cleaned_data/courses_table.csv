@@ -1,0 +1,864 @@
+,u_id,Course
+0,0,BUS2403 - Innovation & Entrepreneurship
+1,1,BUS4173 - Managerial Accounting II
+2,2,BUS3903 - Contemporary Business
+3,3,HRM
+4,4,Micro and Macroeconomics
+5,5,BUS3103 - Internat Busi Globalisation
+6,6,BUS2403 - Innovation & Entrepreneurship
+7,7,BUS4956 - Integrative Industry Project
+8,8,BUS3103 - Internat Busi Globalisation
+9,9,BUS4956 - Integrative Industry Project
+10,10,BUS4373 - Strategic HRM
+11,11,BUS4373 - Strategic HRM
+12,12,BUS4956 - Integrative Industry Project
+13,13,BUS3103 - Internat Busi Globalisation
+14,14,BUS2003 - Business and Commercial Law
+15,15,BUS3003 - Managing People &Organisations
+16,16,BUS4143 - IFRS
+17,17,BUS2203 - Business Stats for Managers
+18,18,BUS2303 - Financial Management
+19,19,BUS3903 - Contemporary Business
+20,20,BUS2203 - Business Stats for Managers
+23,23,Operations Mgt
+24,24,Finance Accounting
+25,25,LSS2103 - Personal Finance
+26,26,BUS3406 - Work Related Learning
+27,27,BUS3003 - Managing People &Organisations
+28,28,LSS2533 - Research Methods
+29,29,LSM1003 - Applied Mathematics
+30,30,LSS2533 - Research Methods
+31,31,LSM1003 - Applied Mathematics
+32,32,BUS2403 - Innovation & Entrepreneurship
+33,33,BUS3103 - Internat Busi Globalisation
+34,34,BUS2933 - Macroeconomics
+35,35,BUS3103 - Internat Busi Globalisation
+36,36,BUS4533 - Int'l Quality Mgt System
+37,37,LSH2203 - Critical Thinking
+38,38,BUS2303 - Financial Management
+39,39,BUS4583 - ISO Standards and Excellence
+40,40,BUS2203 - Business Stats for Managers
+41,41,BUS3003 - Managing People &Organisations
+42,42,BUS2303 - Financial Management
+43,43,BUS3406 - Work Related Learning
+44,44,BUS2203 - Business Stats for Managers
+45,45,CSD1023 - The Crime of Smuggling
+46,46,BUS4183 - Corporate Finance
+48,48,LSS2533 - Research Methods
+49,49,Micro and Macro Economics
+50,50,Micro and Macro Economics
+51,51,HRM
+52,52,International Business
+53,53,Finance and Mgt courses
+54,54,Islamic Risk Mgt
+55,55,E-Business
+56,56,Managerial Economics
+57,57,Financial Derivatives
+58,58,Quality Mgt
+59,59,BUS4143 - IFRS
+60,60,BUS3003 - Managing People &Organisations
+61,61,BUS3406 - Work Related Learning
+62,62,BUS3406 - Work Related Learning
+63,63,BUS2403 - Innovation & Entrepreneurship
+64,64,BUS2203 - Business Stats for Managers
+65,65,BUS2003 - Business and Commercial Law
+66,66,BUS4183 - Corporate Finance
+67,67,BUS1003 - Management and Leadership
+68,68,BUS3103 - Internat Busi Globalisation
+69,69,BSD2263 - Socially Responsible Retailing
+70,70,BUS4223 - Retail Finance and Banking
+71,71,BUS4583 - ISO Standards and Excellence
+72,72,BUS2303 - Financial Management
+73,73,BUS3406 - Work Related Learning
+74,74,BUS3903 - Contemporary Business
+75,75,BUS2003 - Business and Commercial Law
+76,76,BSD2263 - Socially Responsible Retailing
+77,77,BSD1233 - Ethics in a Retail Environment
+78,78,BSD2013 - Introduction to Human Resource
+79,79,BUS4173 - Managerial Accounting II
+80,80,BUS3103 - Internat Busi Globalisation
+81,81,BUS3103 - Internat Busi Globalisation
+82,82,BUS4583 - ISO Standards and Excellence
+83,83,BUS2003 - Business and Commercial Law
+84,84,BUS4553 - Strategic Supply Chain Managem
+85,85,BUS3003 - Managing People &Organisations
+86,86,BUS4533 - Int'l Quality Mgt System
+87,87,BUS1003 - Management and Leadership
+88,88,BUS2403 - Innovation & Entrepreneurship
+89,89,BUS3003 - Managing People &Organisation
+90,90,BUS4563 - Strategic Marketing Management
+91,91,BUS4113 - Financial Accounting I
+92,92,LSS2533 - Research Methods
+93,93,BUS4183 - Corporate Finance
+94,94,BUS2203 - Business Stats for Managers
+95,95,BUS3406 - Work Related Learning
+96,96,BUS2203 - Business Stats for Managers
+97,97,BUS4956 - Integrative Industry Project
+98,98,BUS3406 - Work Related Learning
+102,102,Financial Derivatives
+103,103,Auditing
+104,104,Introduction to HRM
+105,105,HRM
+106,106,Advanced Financial Mgt
+107,107,HRM
+109,109,BUS1203 - Software Apps for Business
+110,110,BUS4183 - Corporate Finance
+111,111,BUS4583 - ISO Standards and Excellence
+112,112,BUS1103 - Economics for Managers
+113,113,BUS3406 - Work Related Learning
+114,114,BUS2403 - Innovation & Entrepreneurship
+115,115,BUS4113 - Financial Accounting I
+116,116,LSH2903 - Community Service Learning
+117,117,BUS4143 - IFRS
+118,118,BUS4533 - Int'l Quality Mgt System
+119,119,BUS-1403_(Business Ethics and Corporate)
+120,120,BUS1003 - Management and Leadership
+121,121,BUS2003 - Business and Commercial Law
+122,122,BUS1303 - Marketing
+123,123,BUS1203 - Software Apps for Business
+124,124,BUS2203 - Business Stats for Managers
+125,125,BUS4153 - Financial Accounting II
+126,126,BUS3103 - Internat Busi Globalisation
+127,127,BUS4553 - Strategic Supply Chain Managem
+128,128,BUS1403 - Business Ethics and Corporate
+129,129,BUS4383 - Performance Management
+130,130,BUS2303 - Financial Management
+131,131,BUS1403 - Business Ethics and Corporate
+132,132,Financial & Managerial Accounting
+133,133,Business Law
+134,134,BUS2403 - Innovation & Entrepreneurship
+135,135,BUS2203 - Business Stats for Managers
+136,136,BUS3003 - Managing People &Organisations
+137,137,BUS2913 - Sustaining Cultural Identity
+138,138,BSD2263 - Socially Responsible Retailing
+139,139,BUS4843 - Supply Chain Strategy & Mgt
+140,140,BUS4956 - Integrative Industry Project
+141,141,BUS4123 - Auditing
+142,142,BSD2222 - Retailing Project I
+143,143,BUS2203 - Business Stats for Managers
+144,144,BUS3103 - Internat Busi Globalisation
+145,145,BUS1403 - Business Ethics and Corporate
+146,146,BUS4323 - Career Development Planning
+147,147,BUS2003 - Business and Commercial Law
+148,148,BUS3406 - Work Related Learning
+149,149,BUS3103 - Internat Busi Globalisation
+150,150,BUS4623 - International Business Finance
+151,151,BUS2403 - Innovation & Entrepreneurship
+152,152,BUS2103 - Operations Management
+153,153,BUS3406 - Work Related Learning
+154,154,BUS3903 - Contemporary Business
+155,155,BUS3003 - Managing People &Organisations
+156,156,BUS2303 - Financial Management
+157,157,BUS3003 - Managing People &Organisations
+158,158,BUS3103 - Internat Busi Globalisation
+159,159,BUS4173 - Managerial Accounting II
+160,160,BUS2203 - Business Stats for Managers
+161,161,BUS1403 - Business Ethics and Corporate
+162,162,BUS4583 - ISO Standards and Excellence
+163,163,BUS3903 - Contemporary Business
+164,164,BUS4143 - IFRS
+165,165,BUS3406 - Work Related Learning
+166,166,BUS4573 - Advanced Strategic Management
+167,167,BUS3406 - Work Related Learning
+168,168,BUS4333 - Recruitment and Selection
+169,169,BUS4533 - Int'l Quality Mgt System
+170,170,BUS2303 - Financial Management
+171,171,BSD1233 - Ethics in a Retail Environment
+172,172,BUS2403 - Innovation & Entrepreneurship
+173,173,BUS2303 - Financial Management
+174,174,BUS3003 - Managing People &Organisations
+175,175,BUS3103 - Internat Busi Globalisation
+176,176,BUS4183 - Corporate Finance
+177,177,BUS4283 - Islamic Finance and Banking
+178,178,BUS4183 - Corporate Finance
+179,179,Money and Banking
+180,180,BUS4143 - IFRS
+181,181,BUS3406  - Work Related Learning
+182,182,BUS2403 - Innovation & Entrepreneurship
+183,183,BSD1253 - Arabic Retail Environment
+184,184,BUS4163 - Taxation
+185,185,BUS3406 - Work Related Learning
+186,186,BUS2203 - Business Stats for Managers
+187,187,BSD1233 - Ethics in a Retail Environment
+188,188,BSD2213 - Retail Customer Service
+189,189,BUS1003 - Management and Leadership
+190,190,BSD2023 - Software Applications II
+191,191,BUS3003 - Managing People &Organisations
+192,192,BSD2213 - Retail Customer Service
+194,194,BUS3103 - Internat Busi Globalisation
+195,195,BUS2003 - Business and Commercial Law
+196,196,BUS4183 - Corporate Finance
+198,198,BUS3913 - Emotional Intelligence for Bus
+199,199,BUS3003 - Managing People &Organisations
+200,200,Financial & Managerial Accounting
+201,201,HRM and Management courses
+202,202,BUS4183 - Corporate Finance
+203,203,BUS2203 - Business Stats for Managers
+204,204,BUS2403 - Innovation & Entrepreneurship
+205,205,BUS4956 - Integrative Industry Project
+206,206,BUS4563 - Strategic Marketing Management
+207,207,BUS2403 - Innovation & Entrepreneurship
+208,208,BUS3003 - Managing People &Organisations
+209,209,Micro and Macroeconomics
+210,210,Datbase Programming
+211,211,Faculty Trainee/MBA in Progress
+212,212,Faculty Trainee/MBA in Progress
+213,213,BUS4623 - International Business Finance
+214,214,BUS3406 - Work Related Learning
+215,215,BUS3003 - Managing People &Organisations
+216,216,BUS4966 - Integrative Industry Project
+217,217,BUS2003 - Business and Commercial Law
+218,218,BUS1403 - Business Ethics and Corporate
+219,219,BUS3103 - Internat Busi Globalisation
+220,220,BUS4683 - Middle East Devt. & Logistics
+221,221,Graduate Trainee/MBA in Progress
+222,222,BUS2403 - Innovation & Entrepreneurship
+223,223,BUS4533 - Int'l Quality Mgt System
+224,224,BUS2203 - Business Stats for Managers
+225,225,Leadership
+226,226,International Business
+227,227,HRM
+228,228,Supply Chain
+229,229,Accounting and Finance courses
+230,230,HRM
+231,231,BUS3103 - Internat Busi Globalisation
+232,232,BUS4583 - ISO Standards and Excellence
+233,233,BUS4956 - Integrative Industry Project
+234,234,BUS2003 - Business and Commercial Law
+235,235,BUS2203 - Business Stats for Managers
+236,236,BUS3003 - Managing People &Organisations
+237,237,BUS4533 - Int'l Quality Mgt System
+238,238,BUS4553 - Strategic Supply Chain Managem
+239,239,BUS1303 - Marketing
+240,240,BUS4153 - Financial Accounting II
+241,241,BUS3406 - Work Related Learning
+242,242,BUS3003 - Managing People &Organisations
+243,243,BUS2303 - Financial Management
+244,244,BUS4313 - Empl Relations UAE Labour Law
+245,245,BSD2033 - Basic Accounting
+246,246,BUS2403 - Innovation & Entrepreneurship
+247,247,Managerial Accounting
+248,248,Accounting and Auditing courses
+249,249,Finance & Financial Markets
+250,250,BUS3903 - Contemporary Business
+251,251,BUS4143 - IFRS
+252,252,BUS4163 - Taxation
+253,253,BSD2263 - Socially Responsible Retailing
+254,254,BUS3103 - Internat Busi Globalisation
+256,256,BUS4383 - Performance Management
+257,257,BUS2403 - Innovation & Entrepreneurship
+258,258,BUS1503 - Accounting for Managers
+259,259,BUS1203 - Software Apps for Business
+260,260,BUS3103 - Internat Busi Globalisation
+261,261,BSD2033 - Basic Accounting
+262,262,BUS4623 - International Business Finance
+263,263,BUS4683 - Middle East Devt. & Logistics
+264,264,BSD2263 - Socially Responsible Retailing
+265,265,BUS2303 - Financial Management
+266,266,BUS2303 - Financial Management
+267,267,BSD2023 - Software Applications II
+268,268,BSD2233 - Retail Marketing
+269,269,BUS2203 - Business Stats for Managers
+270,270,BUS4333 - Recruitment and Selection
+271,271,BUS4583 - ISO Standards and Excellence
+272,272,BUS1203 - Software Apps for Business
+273,273,BUS3103 - Internat Busi Globalisation
+274,274,BUS3003 - Managing People &Organisations
+275,275,BUS2003 - Business and Commercial Law
+276,276,BUS3903 - Contemporary Business
+278,278,Islamic Risk Mgt
+279,279,intro to Economics
+280,280,Marketing Management
+281,281,HRM
+282,282,Economics and Management
+283,283,Leadership
+284,0,BUS2003 - Business and Commercial Law
+285,1,BUS4916 - Integrative Industry Project
+286,2,BUS1303 - Marketing
+287,3,Organizational behaviour
+288,4,Statistics
+289,5,BUS1303 - Marketing
+290,6,BUS2303 - Financial Management
+291,7,BUS3903 - Contemporary Business
+292,8,BUS2203 - Business Stats for Managers
+294,10,BUS3203 - Strat Mgt Busi Simulation
+295,11,BUS3203 - Strat Mgt Busi Simulation
+296,12,BUS4533 - Int'l Quality Mgt System
+297,13,BUS1203 - Software Apps for Business
+298,14,BUS2913 - Sustaining Cultural Identity
+299,15,BUS1003 - Management and Leadership
+300,16,BUS4123 - Auditing
+301,17,BUS3003 - Managing People &Organisations
+302,18,BUS3406 - Work Related Learning
+303,19,BUS1403 - Business Ethics and Corporate
+304,20,BUS4153 - Financial Accounting II
+307,23,Economics
+308,24,Financial Mgt
+309,25,BUS4163 - Taxation
+310,26,BUS2003 - Business and Commercial Law
+311,27,BUS3406 - Work Related Learning
+312,28,BUS3406 - Work Related Learning
+313,29,BUS3406 - Work Related Learning
+314,30,BUS3903 - Contemporary Business
+315,31,BUS1103 - Economics for Managers
+316,32,BUS3406 - Work Related Learning
+317,33,LSM1003 - Applied Mathematics
+318,34,LSS2103 - Personal Finance
+319,35,BUS2403 - Innovation & Entrepreneurship
+320,36,BUS3406 - Work Related Learning
+321,37,BUS4563 - Strategic Marketing Management
+322,38,CSD2033 - International Conventions
+323,39,LSH2203 - Critical Thinking
+324,40,BUS3406 - Work Related Learning
+325,41,BUS3406 - Work Related Learning
+326,42,BUS3406 - Work Related Learning
+327,43,LSS2103 - Personal Finance
+328,44,BUS2303 - Financial Management
+329,45,BUS4563 - Strategic Marketing Management
+330,46,LSM1003 - Applied Mathematics
+332,48,BUS3903 - Contemporary Business
+333,49,Monetary Theory
+334,50,Business Stastics
+335,51,International Business
+336,52,Innovation
+338,54,Islamic Insurance
+339,55,International Business
+340,56,Economics
+341,57,Financial Mgt
+342,58,HRM Innovation Strategies
+343,59,BUS3406 - Work Related Learning
+344,60,BUS4533 - Int'l Quality Mgt System
+345,61,BUS1203 - Software Apps for Business
+346,62,BSD1223 - Marketing Principles
+347,63,BUS3903 - Contemporary Business
+348,64,BUS3406 - Work Related Learning
+349,65,LSH2113 -
+350,66,BUS4213 - Financial Quantitative Methods
+351,67,BUS1303 - Marketing
+352,68,BUS4563 - Strategic Marketing Management
+353,69,BSD2023 - Software Applications II
+354,70,BUS4916 - Integrative Industry Project
+355,71,BUS4956 - Integrative Industry Project
+357,73,BUS4233 - Financial Assets and Markets
+358,74,BUS3406 - Work Related Learning
+359,75,BUS4233 - Financial Assets and Markets
+360,76,BUS3406 - Work Related Learning
+361,77,BUS3003 - Managing People &Organisations
+362,78,BUS2103 - Operations Management
+363,79,BUS4113 - Financial Accounting I
+364,80,BUS4313 - Empl Relations UAE Labour Law
+365,81,BUS3903 - Contemporary Business
+366,82,BUS4573 - Advanced Strategic Management
+367,83,LSS2003 - Creating Your Future
+368,84,BUS3903 - Contemporary Business
+369,85,BUS4373 - Strategic HRM
+370,86,BUS1003 - Management and Leadership
+371,87,BUS2913 - Sustaining Cultural Identity
+372,88,BUS1403 - Business Ethics and Corporate
+374,90,LSS2533 - Research Methods
+375,91,BUS1503 - Accounting for Managers
+376,92,BUS1303 - Marketing
+377,93,BUS4213 - Financial Quantitative Methods
+378,94,BUS4283 - Islamic Finance and Banking
+379,95,BUS4223 - Retail Finance and Banking
+380,96,LSM1003 - Applied Mathematics
+381,97,BUS4926 - Integrative Industry Project
+382,98,BUS4123 - Auditing
+386,102,Investment
+387,103,Islamic Accounting
+388,104,Performance Mgt
+389,105,Organizational Behaviour
+390,106,Quantitative Business Methods
+391,107,Training and Development
+393,109,LSS2003 - Creating Your Future
+394,110,BUS4213 - Financial Quantitative Methods
+395,111,BUS4543 - Quality Management Tools
+396,112,LSS2103 - Personal Finance
+397,113,BSD2213 - Retail Customer Service
+399,115,BUS1503- Accounting for Managers
+400,116,LSH2203 - Critical Thinking
+401,117,BUS4173 - Managerial Accounting II
+402,118,BUS4563 - Strategic Marketing Management
+403,119,BUS-3406_(Work Related Learning)
+404,120,BUS1303 - Marketing
+405,121,BUS4313 - Empl Relations UAE Labour Law
+409,125,BUS4926 - Integrative Industry Project
+410,126,BUS4956 - Integrative Industry Project
+411,127,BUS3406 - Work Related Learning
+412,128,BUS3203 - Strat Mgt Busi Simulation
+413,129,BUS4353 - Int Human Resource Management
+414,130,BUS4283 - Islamic Finance and Banking
+415,131,BUS1203 - Software Apps for Business
+416,132,Taxation
+417,133,Leadership
+418,134,BUS1403 - Business Ethics and Corporate
+419,135,BUS2103 - Operations Management
+420,136,BUS2003 - Business and Commercial Law
+422,138,BUS2403 - Innovation & Entrepreneurship
+423,139,BUS4966 - Integrative Industry Project
+424,140,BUS4813 - Supply Chain Concept/Practices
+425,141,LSS2103 -  Personal Finance
+426,142,BSD2067 - Business Work Placement
+427,143,BUS1103 - Economics for Managers
+428,144,BSD2252 - Retailing Project II
+429,145,BSD2067 - Business Work Placement
+430,146,BUS2913 - Sustaining Cultural Identity
+431,147,BUS4313 - Empl Relations UAE Labour Law
+432,148,BUS1003 - Management and Leadership
+433,149,BSD1223 - Marketing Principles
+434,150,BUS4213 - Financial Quantitative Methods
+435,151,BUS3903 - Contemporary Business
+437,153,BUS3903 - Contemporary Business
+438,154,BUS1203 - Software Apps for Business
+439,155,BUS4573 - Advanced Strategic Management
+440,156,BSD2043 - Practical Accounting
+441,157,BUS4383 - Performance Management
+442,158,BUS4673 - International Law
+443,159,BUS2303 - Financial Management
+444,160,BUS4553 - Strategic Supply Chain Managem
+445,161,BUS1003 - Management and Leadership
+446,162,BUS4956 - Integrative Industry Project
+447,163,BUS4513 - Strat Decisions with Mgt Sc
+448,164,BUS4123 - Auditing
+449,165,BUS4563 - Strategic Marketing Management
+450,166,BUS3203 - Strat Mgt Busi Simulation
+451,167,BUS1003 - Management and Leadership
+452,168,BUS4353 - Int Human Resource Management
+453,169,BUS1003 - Management and Leadership
+454,170,BUS4926 - Integrative Industry Project
+455,171,BSD2233 - Retail Marketing
+456,172,BUS1203 - Software Apps for Business
+457,173,BUS1503 - Accounting for Managers
+458,174,BUS3406 - Work Related Learning
+459,175,BUS3406 - Work Related Learning
+460,176,BUS4683 - Middle East Devt. & Logistics
+461,177,BUS4223 - Retail Finance and Banking
+462,178,BUS4153 - Financial Accounting II
+463,179,Investment Analysis
+464,180,BUS4173 - Managerial Accounting II
+465,181,BUS1403 - Business Ethics and Corporate
+466,182,BUS3406 - Work Related Learning
+467,183,BUS2913 - Sustaining Cultural Identity
+468,184,BUS4353 - Int Human Resource Management
+469,185,LSS2103 - Personal Finance
+470,186,BUS4213 - Financial Quantitative Methods
+471,187,BSD1223 - Marketing Principles
+475,191,BSD2013 - Introduction to Human Resource
+476,192,BUS1003 - Management and Leadership
+478,194,BSD2222 - Retailing Project I
+479,195,BUS4313 - Empl Relations UAE Labour Law
+480,196,BUS2303 - Financial Management
+482,198,BUS3406 - Work Related Learning
+483,199,BUS4936 - Integrative Industry Project
+484,200,Auditing and Advance Accounting
+486,202,BUS2303 - Financial Management
+487,203,BUS3003 - Managing People &Organisations
+488,204,BUS3406 - Work Related Learning
+489,205,BUS3406 - Work Related Learning
+490,206,BUS4513 - Strat Decisions with Mgt Sc
+491,207,BUS4533 - Int'l Quality Mgt System
+492,208,BUS3913 - Emotional Intelligence for Bus
+493,209,Statistics
+494,210,Business Intelligence
+497,213,BUS2303 - Financial Management
+498,214,BUS3203 - Strat Mgt Busi Simulation
+500,216,BUS1303 - Marketing
+501,217,BUS1003 - Management and Leadership
+502,218,LSH2143 - Leadership Communication
+503,219,BUS1103 - Economics for Managers
+504,220,BUS4563 - Strategic Marketing Management
+506,222,BUS1303 - Marketing
+507,223,BUS4673 - International Law
+508,224,BUS4183 - Corporate Finance
+509,225,Intro to HRM
+510,226,strategic Mgt
+511,227,strategic Staffing
+512,228,Operations Mgt
+514,230,Corporate Strategy
+515,231,BUS3903 - Contemporary Business
+516,232,BUS4553 - Strategic Supply Chain Managem
+517,233,BUS3406 - Work Related Learning
+518,234,BUS1403 - Business Ethics and Corporate
+519,235,BUS3903 - Contemporary Business
+520,236,BUS1003 - Management and Leadership
+521,237,BUS4543 - Quality Management Tools
+522,238,BUS2903 - Logistics & Supply Chain Mgmnt
+523,239,BUS3203 - Strat Mgt Busi Simulation
+524,240,BUS4113 - Financial Accounting I
+525,241,BUS4573 - Advanced Strategic Management
+526,242,BUS1203 - Software Apps for Business
+527,243,BUS4123 - Auditing
+528,244,BUS2003 - Business and Commercial Law
+530,246,BUS4563 - Strategic Marketing Management
+531,247,Taxation
+533,249,Audit and Internal Controls
+534,250,BUS3406 - Work Related Learning
+535,251,BUS4173 - Managerial Accounting II
+536,252,BUS4133 - Managerial Accounting I
+537,253,BUS1303 - Marketing
+538,254,BUS2913 - Sustaining Cultural Identity
+540,256,BUS1203 - Software Apps for Business
+541,257,BUS2003 - Business and Commercial Law
+544,260,BUS3406 - Work Related Learning
+545,261,BUS1503 - Accounting for Managers
+546,262,BUS4183 - Corporate Finance
+547,263,BUS2203 - Business Stats for Managers
+548,264,BUS2913 - Sustaining Cultural Identity
+549,265,LSS2103 - Personal Finance
+550,266,BUS4113 - Financial Accounting I
+551,267,BUS1003 - Management and Leadership
+552,268,BUS3406 - Work Related Learning
+553,269,BUS4363 - Managing Organisational Change
+554,270,BUS3903 - Contemporary Business
+555,271,BUS3103 - Internat Busi Globalisation
+556,272,LSS2013 - The World of Work
+557,273,BUS3203 - Strat Mgt Busi Simulation
+558,274,BUS1303 - Marketing
+559,275,BSD2213 - Retail Customer Service
+560,276,BUS1403 - Business Ethics and Corporate
+562,278,Islamic Portfolio Mgt
+563,279,EU laws and Regulations
+564,280,Marketing Research
+565,281,SHRM
+567,283,Organizational Design and Behaviour
+568,0,LSG2013 - Globalization
+569,1,BUS4163 - Taxation
+571,3,Strategic Mgt
+572,4,Introduction to Business
+573,5,BUS4543 - Quality Management Tools
+574,6,BUS1303 - Marketing
+575,7,BUS1403 - Business Ethics and Corporate
+576,8,BUS2913 - Sustaining Cultural Identity
+581,13,BUS1303 - Marketing
+583,15,BUS1303 - Marketing
+584,16,BUS1503 - Accounting for Managers
+585,17,BUS1403 - Business Ethics and Corporate
+586,18,BUS4113 - Financial Accounting I
+588,20,BUS1503 - Accounting for Managers
+591,23,Financial institutions
+592,24,Corporate Finance
+593,25,BUS4133 - Managerial Accounting I
+594,26,LSS2103 - Personal Finance
+595,27,BUS1303 - Marketing
+596,28,BUS1203 - Software Apps for Business
+597,29,BUS1103 - Economics for Managers
+598,30,BUS3406 - Work Related Learning
+599,31,BUS1403 - Business Ethics and Corporate
+600,32,BUS4573 - Advanced Strategic Management
+601,33,BUS2103 - Operations Management
+604,36,BUS1203 - Software Apps for Business
+605,37,BUS3203 - Strat Mgt Busi Simulation
+606,38,BUS3406 - Work Related Learning
+607,39,BUS3406 - Work Related Learning
+608,40,BUS4243 - International Trade & Finance
+609,41,BUS1003- Management and Leadership
+610,42,BUS4113 - Financial Accounting I
+611,43,BUS1503 - Accounting for Managers
+612,44,BUS3003 - Managing People &Organisations
+613,45,CSD2152 - Customs Admin Proj II
+614,46,BUS4213 - Financial Quantitative Methods
+616,48,BUS3406 - Work Related Learning
+617,49,Analysis and Finance
+618,50,Money and Banking
+619,51,TQM
+620,52,strategic Mgt
+622,54,Islamic Finance
+623,55,Strategic Mgt
+625,57,Corporate Finance
+626,58,Organizational behaviour
+627,59,BUS4123 - Auditing
+628,60,BUS4573 - Advanced Strategic Management
+629,61,BSD2067 - Business Work Placement
+630,62,BUS1303 - Marketing
+632,64,BSD2067 - Business Work Placement
+634,66,BUS4153 - Financial Accounting II
+636,68,BUS1403 - Business Ethics and Corporate
+637,69,BSD2252 - Retailing Project II
+638,70,BUS4133 - Managerial Accounting I
+639,71,BUS3003 - Managing People &Organisations
+641,73,LSS2103 - Personal Finance
+642,74,BSD2222 - Retailing Project I
+644,76,BUS1403 - Business Ethics and Corporate
+645,77,BUS3903 - Contemporary Business
+646,78,BUS3203 - Strat Mgt Busi Simulation
+647,79,LSS2103 - Personal Finance
+648,80,BUS4243 - International Trade & Finance
+650,82,BUS4373 - Strategic HRM
+652,84,BUS4543 - Quality Management Tools
+653,85,BUS4353 - Int Human Resource Management
+654,86,BUS2103 - Operations Management
+656,88,BUS1003 - Management and Leadership
+658,90,BUS4653 - International Marketing
+659,91,BUS1303 - Marketing
+660,92,BUS3203 - Strat Mgt Busi Simulation
+661,93,BUS2303 - Financial Management
+662,94,BUS1103 - Economics for Managers
+663,95,BUS4233 - Financial Assets and Markets
+664,96,BUS2303 - Financial Management
+665,97,BUS3203 - Strat Mgt Busi Simulation
+666,98,BUS4163 - Taxation
+670,102,Isalmic financial system
+671,103,Financial Accounting
+672,104,HR Strategic Mgt
+673,105,Strategic Mgt
+674,106,International Business
+675,107,Operations Mgt
+678,110,BUS4243 - International Trade & Finance
+679,111,BUS2103 - Operations Management
+681,113,BUS1003 - Management and Leadership
+685,117,BUS4916 - Integrative Industry Project
+686,118,BUS4573 - Advanced Strategic Management
+687,119,BSD-1233_(Ethics in a Retail Environment)
+688,120,BUS4323 - Career Development Planning
+689,121,LSH2343 - Ethical Issues
+693,125,BUS4123 - Auditing
+695,127,BSD1253 - Arabic Retail Environment
+697,129,BUS4373 - Strategic HRM
+699,131,BUS2913 - Sustaining Cultural Identity
+700,132,Non-Profit and Municipal Accounting
+701,133,Risk Mgt
+704,136,BUS4373 - Strategic HRM
+706,138,BSD2023 - Software Applications II
+707,139,BUS4643 - Cross Cultural Management
+708,140,BUS4543 - Quality Management Tools
+709,141,BSD2033 - Basic Accounting
+711,143,BUS1203 - Software Apps for Business
+712,144,BSD2067 - Business Work Placement
+713,145,BUS1003 - Management and Leadership
+714,146,BUS4343 - Training and Development
+715,147,BUS1503 - Accounting for Managers
+717,149,BUS1303 - Marketing
+718,150,BUS4243 - International Trade & Finance
+719,151,BSD2013 - Introduction to Human Resource
+721,153,BUS1203 - Software Apps for Business
+722,154,BSD2067 - Business Work Placement
+723,155,BUS1303 - Marketing
+725,157,BUS4936 - Integrative Industry Project
+726,158,BUS4253 - Law
+727,159,BUS1503 - Accounting for Managers
+728,160,BUS3406 - Work Related Learning
+730,162,BUS4553 - Strategic Supply Chain Managem
+731,163,BUS3203 - Strat Mgt Busi Simulation
+732,164,BUS4916 - Integrative Industry Project
+733,165,BSD1243 - Retail Operations
+738,170,LSS2103 - Personal Finance
+739,171,BSD2213 - Retail Customer Service
+741,173,BUS4133 - Managerial Accounting I
+742,174,BUS4863 - Procurement & Inventory Mgt
+743,175,BUS1003 - Management and Leadership
+744,176,BUS4233 - Financial Assets and Markets
+745,177,LSS2103 - Personal Finance
+746,178,BUS4113 - Financial Accounting I
+747,179,Cost Accounting
+748,180,BUS4153 - Financial Accounting II
+749,181,BUS1203 - Software Apps for Business
+750,182,BUS4373 - Strategic HRM
+752,184,BUS2103 - Operations Management
+753,185,BUS4323 - Career Development Planning
+754,186,BUS4513 - Strat Decisions with Mgt Sc
+755,187,BUS1303 - Marketing
+760,192,LSS2103 - Personal Finance
+763,195,BSD1243 - Retail Operations
+764,196,BUS3406 - Work Related Learning
+766,198,BSD2033 - Basic Accounting
+767,199,BUS2903 - Logistics & Supply Chain Mgmnt
+770,202,BUS3903 - Contemporary Business
+771,203,BUS2903 - Logistics & Supply Chain Mgmnt
+772,204,BUS2003 - Business and Commercial Law
+773,205,BUS4513 - Strat Decisions with Mgt Sc
+774,206,BUS1503 - Accounting for Managers
+775,207,BUS1303 - Marketing
+777,209,Econometrics
+778,210,System Analysis
+781,213,BUS4163 - Taxation
+782,214,BUS4343 - Training and Development
+784,216,BUS2913 - Sustaining Cultural Identity
+786,218,BUS4643 - Cross Cultural Management
+787,219,BUS1303 - Marketing
+788,220,BUS1003 - Management and Leadership
+791,223,BUS1503 - Accounting for Managers
+792,224,BUS4113 - Financial Accounting I
+793,225,Performance Mgt
+794,226,Training & Development
+795,227,Compensation and Benefit
+796,228,Entrepreneurship
+798,230,Business Strategy
+799,231,BUS3406 - Work Related Learning
+800,232,BUS4563 - Strategic Marketing Management
+801,233,BUS1003 - Management and Leadership
+803,235,BUS4513 - Strat Decisions with Mgt Sc
+804,236,BSD2013 - Introduction to Human Resource
+805,237,BUS1303 - Marketing
+806,238,BUS2103 - Operations Management
+808,240,BUS1503 - Accounting for Managers
+809,241,BSD2222 - Retailing Project I
+812,244,BUS4673 - International Law
+814,246,BSD2252 - Retailing Project II
+815,247,Performance Mgt
+817,249,International Finance
+818,250,BUS3003 - Managing People &Organisations
+819,251,BSD2043 - Practical Accounting
+824,256,BUS3203 - Strat Mgt Busi Simulation
+825,257,BUS2103 - Operations Management
+828,260,BUS1303 - Marketing
+830,262,BUS4916 - Integrative Industry Project
+832,264,BUS4343 - Training and Development
+834,266,BUS1503 - Accounting for Managers
+836,268,BSD2067 - Business Work Placement
+838,270,BUS1403 - Business Ethics and Corporate
+839,271,BUS2403 - Innovation & Entrepreneurship
+843,275,BSD1243 - Retail Operations
+844,276,BUS1003 - Management and Leadership
+846,278,Islamic Banking Operations
+847,279,Organizational Behaviour
+848,280,Consumer Behaviour
+849,281,Performance and Reward Mgt
+851,283,Investments
+852,0,Media & Soc
+853,1,BUS4133 - Managerial Accounting I
+855,3,project mgt
+857,5,BUS2103 - Operations Management
+858,6,BUS2103 - Operations Management
+859,7,BUS4543 - Quality Management Tools
+869,17,BUS4513 - Strat Decisions with Mgt Sc
+875,23,Financial Mgt
+876,24,Financial Markets.
+880,28,BUS3203 - Strat Mgt Busi Simulation
+882,30,BUS1203 - Software Apps for Business
+884,32,CSD2023 - Intermediate Risk Management
+888,36,BUS1303 - Marketing
+890,38,BSD2067 - Business Work Placement
+892,40,BUS1503 - Accounting for Managers
+894,42,BUS4223 - Retail Finance and Banking
+896,44,BUS3406 - Work Related Learning
+897,45,BUS3406 - Work Related Learning
+898,46,BUS3406 - Work Related Learning
+900,48,LSS2103 - Personal Finance
+903,51,Service Quality
+904,52,Supply chain
+909,57,Financial Markets.
+911,59,BUS4163 - Taxation
+912,60,BUS4373 - Strategic HRM
+913,61,BUS4543 - Quality Management Tools
+916,64,BUS1503 - Accounting for Managers
+918,66,BSD2043 - Practical Accounting
+921,69,BUS1203 - Software Apps for Business
+922,70,BUS4263 - Corp Finance and Banking
+923,71,BUS3406 - Work Related Learning
+925,73,BSD2067 - Business Work Placement
+926,74,BUS2913 - Sustaining Cultural Identity
+928,76,BSD2067 - Business Work Placement
+931,79,BUS1503 - Accounting for Managers
+934,82,BUS4936 - Integrative Industry Project
+936,84,BUS2103 - Operations Management
+937,85,BUS4323 - Career Development Planning
+943,91,BUS3203 - Strat Mgt Busi Simulation
+944,92,BUS4643 - Cross Cultural Management
+945,93,BUS4263 - Corp Finance and Banking
+946,94,BUS4243 - International Trade & Finance
+947,95,LSS2103 - Personal Finance
+948,96,LSS2103 - Personal Finance
+950,98,BUS1503 - Accounting for Managers
+954,102,
+955,103,Cost & managerial Accounting
+957,105,Entrepreneurship
+959,107,Sucession Planning
+962,110,BUS4273 - Wealth and Risk Management
+965,113,BUS1303 - Marketing
+969,117,BUS4163 - Taxation
+970,118,BUS4936 - Integrative Industry Project
+971,119,BUS-1403_(Business Ethics and Corporate)
+973,121,BUS4253 - Law
+977,125,BUS4223 - Retail Finance and Banking
+979,127,BUS4513 - Strat Decisions with Mgt Sc
+981,129,BSD2013 - Introduction to Human Resource
+985,133,Operations Mgt
+990,138,BUS4563 - Strategic Marketing Management
+995,143,BUS4663 - International Trade
+996,144,BUS2913 - Sustaining Cultural Identity
+1002,150,BUS4273 - Wealth and Risk Management
+1006,154,BUS1303 - Marketing
+1007,155,BUS4373 - Strategic HRM
+1010,158,Ethics and Prof Standards
+1012,160,BUS4513 - Strat Decisions with Mgt Sc
+1015,163,BUS4363 - Managing Organisational Change
+1016,164,BUS4163 - Taxation
+1017,165,BUS4653 - International Marketing
+1026,174,BUS4833 - Manufacturing in Supply Chain
+1027,175,BUS4373 - Strategic HRM
+1028,176,BUS4663 - International Trade
+1029,177,BUS4263 - Corp Finance and Banking
+1030,178,BUS3203 - Strat Mgt Busi Simulation
+1031,179,Financial Mgt
+1032,180,BUS4113 - Financial Accounting I
+1033,181,BUS4353 - Int Human Resource Management
+1036,184,BUS3203 - Strat Mgt Busi Simulation
+1038,186,BUS4653 - International Marketing
+1039,187,BUS4813 - Supply Chain Concept/Practices
+1044,192,GND1022 - Intro to Community Service
+1047,195,BUS4663 - International Trade
+1048,196,BUS1503 - Accounting for Managers
+1054,202,BUS3406 - Work Related Learning
+1056,204,BUS1203 - Software Apps for Business
+1057,205,BUS3203 - Strat Mgt Busi Simulation
+1058,206,BUS4543 - Quality Management Tools
+1059,207,BUS2903 - Logistics & Supply Chain Mgmnt
+1065,213,BUS4133 - Managerial Accounting I
+1072,220,BUS1303 - Marketing
+1077,225,Organizational Behaviour
+1078,226,Leadership
+1079,227,International HRM
+1083,231,BUS4113 - Financial Accounting I
+1084,232,BUS3406 - Work Related Learning
+1085,233,BUS4373 - Strategic HRM
+1088,236,BUS4373 - Strategic HRM
+1093,241,BSD2067 - Business Work Placement
+1101,249,.
+1102,250,BUS1003 - Management and Leadership
+1103,251,BUS4123 - Auditing
+1120,268,BSD1223 - Marketing Principles
+1130,278,Islamic Finance
+1133,281,Research Methodology
+1135,283,corporate Finance
+1136,0,BUS1003 - Management and Leadership
+1139,3,Risk mgt
+1168,32,CSD2102 - Customs Admin Proj I
+1174,38,BUS2103 - Operations Management
+1180,44,BSD1243 - Retail Operations
+1181,45,BSD2067 - Business Work Placement
+1182,46,BUS4233 - Financial Assets and Markets
+1188,52,International Business Law
+1195,59,BUS3203 - Strat Mgt Busi Simulation
+1197,61,BUS2103 - Operations Management
+1200,64,LSH2113 - Foundations of Leadership
+1207,71,BUS4513 - Strat Decisions with Mgt Sc
+1229,93,BUS3203 - Strat Mgt Busi Simulation
+1230,94,BUS4273 - Wealth and Risk Management
+1231,95,BUS1503 - Accounting for Managers
+1232,96,BUS4133 - Managerial Accounting I
+1246,110,BUS4263 - Corp Finance and Banking
+1253,117,BUS4133 - Managerial Accounting I
+1257,121,Ethics and Prof Standards
+1261,125,BUS4233 - Financial Assets and Markets
+1263,127,BSD2033 - Basic Accounting
+1274,138,BUS1203 - Software Apps for Business
+1301,165,BUS4823 - Logistics & Transportation 1
+1316,180,BUS4133 - Managerial Accounting I
+1323,187,BUS4643 - Cross Cultural Management
+1328,192,BUS1303 - Marketing
+1338,202,BUS4133 - Managerial Accounting I
+1340,204,BUS2103 - Operations Management
+1367,231,BUS4123 - Auditing
+1368,232,BUS4573 - Advanced Strategic Management
+1369,233,BUS2903 - Logistics & Supply Chain Mgmnt
+1377,241,BUS2103 - Operations Management
+1387,251,LSS2103 - Personal Finance
+1465,45,BUS1303 - Marketing
+1466,46,BUS4513 - Strat Decisions with Mgt Sc
+1491,71,BSD2067 - Business Work Placement
+1514,94,BUS4663 - International Trade
+1624,204,BUS2903 - Logistics & Supply Chain Mgmnt
+1651,231,BUS4163 - Taxation
+1652,232,BUS1403 - Business Ethics and Corporate
+1935,231,BUS1503 - Accounting for Managers
+1936,232,BUS2103 - Operations Management

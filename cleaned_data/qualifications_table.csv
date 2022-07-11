@@ -1,0 +1,743 @@
+,u_id,Qualification,Major
+0,0,Bachelor of Science,Communications
+1,1,Bachelor of Arts,Finance
+2,2,Certificate,Educating/Teaching Adult
+3,3,Bachelor,finance & Mgt
+4,4,Bachelor,Economics
+5,5,Ph.D,Business Administration
+6,6,Bachelor,Accounting & Finance
+7,7,Bachelor of Science,Accountancy
+8,8,Masters,Business
+9,9,Bachelor of Applied Science,Business Adm General)
+10,10,Master of Science,Public Admin & Public Policy
+12,12,Masters,Business
+13,13,Master of Business Administrat,Business Administration
+14,14,Master of Business Administrat,General Business Admin
+15,15,Bachelor of Arts,Business studies
+16,16,Master of Business Administrat,Business
+17,17,Masters,Economics
+18,18,Masters,Business Education
+19,19,Post Graduate Diploma,Political Science
+20,20,Master of Science,Finance
+21,21,Bachelor of Business Info. Systems,Business
+22,22,Bachelor,Commerce
+23,23,Bachelor,Economics & Sociology
+24,24,Bachelor,Finance
+25,25,Bachelor,Law
+26,26,Bachelor,Psychology
+27,27,Master of Business Administrat,Human Resource Management
+28,28,Certificate,Project Management
+29,29,Bachelor,Commerce
+30,30,Bachelor,Educational Studies
+31,31,Graduate Certificate,Teaching & Learning
+32,32,Associate in Arts,Business
+33,33,Ph.D,Commerce
+34,34,Bachelor of Science,Business studies
+35,35,Master of Business Administrat,Management
+36,36,Masters,International Marketing
+37,37,Bachelor,International Business
+38,38,Post Graduate Diploma,Management Science
+39,39,Masters in Quality Management,Quality Management
+40,40,Ph.D,Professional Studies
+41,41,Master of Business Administrat,Business Administration
+42,42,Post Graduate Diploma,Business
+43,43,Bachelor of Commerce,Commerce
+44,44,Ph.D,Business Management
+45,45,Master of Business Administrat,Business Administration
+46,46,Master of Commerce,Financial Management
+47,47,Bachelor of Science,Industrial Engineering
+48,48,Certificate,
+49,49,Bachelor,Economics
+50,50,Bachelor,Economics
+51,51,Bachelor,international Relations
+52,52,Bachelor,International Business and Asian Studies
+53,53,Bachelor,Economics
+54,54,Bachelor,insurance
+55,55,Bachelor,Accounting
+56,56,Bachelor,Business Administration and Marketing
+57,57,Bachelor,Finance Masters Industrial Strategy and Money Finance and Banking
+58,58,Bachelor,Electrical Engineering
+59,59,Master of Science,Taxation
+60,60,Bachelor of Arts,European Business Studies
+61,61,Bachelor,Chemical Engineering
+62,62,Bachelor of Science,Radio and Television Arts
+63,63,Master of Arts,European Business Studies
+64,64,Bachelor of Engineering,
+65,65,Graduate Diploma,Education
+66,66,Master of Business Administrat,Business Administration
+67,67,Master of Business Administrat,Business
+68,68,Master of Business Administrat,General Management
+69,69,Bachelor of Science,Computing
+70,70,Master of Business Administrat,Finance
+71,71,Ph.D,Human Resource Management
+72,72,Bachelor,Computer Science
+73,73,Master of Applied Science,Economics
+74,74,Diploma,Marketing
+76,76,Bachelor of Business Admin.,Business Administration
+77,77,Bachelor,Business
+78,78,Diploma,Bsn Adm-Transport & Logistics
+79,79,Bachelor,Accounting & Finance
+80,80,Diploma,Business Administration
+81,81,Master of Business Administrat,Management
+82,82,Master of Business Administrat,Business Administration
+83,83,Bachelor,Law
+84,84,Bachelor,Economics
+85,85,Bachelor of Commerce,Commerce
+86,86,Master of Business Administrat,Business Administration
+87,87,Master of Business Administrat,Business Administration
+88,88,Post Degree Certificate,Educating/Teaching Adult
+89,89,Master of Business Administrat,Business Administration
+90,90,MA in International Business,International Business
+91,91,Master of Business Administrat,Marketing
+92,92,Master of Business Administrat,Marketing
+93,93,Master of Business Administrat,International Banking &Finance
+94,94,Doctorate in Philosophy,Economics
+95,95,Masters,Accounting & Finance
+96,96,Bachelor of Commerce,Accounting
+97,97,Post Graduate Diploma,Info. System & Management
+98,98,Diploma,Business Information Tech
+99,99,Bachelor,Hospitality Management
+100,100,Bachelor in Business Administration,General Business
+101,101,Masters,Finance
+102,102,Bachelor,Banking and Monetary Economics
+103,103,Bachelor,Accounting
+104,104,Bachelor,Finance
+105,105,Bachelor,Organizational Behaviour
+106,106,Bachelor,Business Administration
+107,107,Bachelor,Social Studies
+109,109,Bachelor of Science,Business Adm Accounting)
+110,110,Certificate,English Language
+111,111,Master of Education,Training Development
+112,112,Bachelor,Economics
+113,113,Certificate,Executive Education
+114,114,Master of Education,Instructional Technology
+115,115,Higher Diploma,Education
+116,116,Certificate,Int'l Computer Driving License
+117,117,Bachelor of Science,Economics
+118,118,Master of Science,International Business
+119,119,Master of,Criminology & Criminal Justice
+120,120,Master of Business Administrat,Business Administration
+121,121,Bachelor of Science,Business Administration
+122,122,MA International Business,International Business
+123,123,Ph.D,Management
+124,124,Master of Business Administrat,Management
+125,125,Masters,
+126,126,Master of Science,Operational Research
+127,127,Ph.D,Integrtd Textile & Apparel Sci
+128,128,Master of Business Administrat,International Business
+129,129,Graduate Diploma,Educational Studies
+130,130,Bachelor of Commerce,Commerce
+131,131,Bachelor,Hotel Restaurant Tourism Admin
+132,132,Bachelor,Accounting
+133,133,Bachelor,Business Administration
+135,135,Master of Business Administrat,Systems and Int'l Business
+136,136,Certificate,Human Resource Management
+137,137,Bachelor of Business Admin.,Hospitality-Tourism Management
+138,138,Masters,International Management
+139,139,Ph.D,General Business
+140,140,Master of Business Administrat,Business Administration
+141,141,Master of Business Administrat,Business
+142,142,Bachelor of Science,Finance
+143,143,Master of Arts,Economics
+144,144,Ph.D,Economics Science
+145,145,Bachelor of Business Admin.,Management
+146,146,Diploma,Early Childhood Education
+147,147,Master of Law,Law
+148,148,Master of Strategic HR mgmt.,Human Resource Management
+149,149,Master of Business Administrat,Business Administration
+150,150,Bachelor of Commerce,Commerce
+151,151,Ph.D in Education,Organization And Leadership
+152,152,Master of Business Administrat,Business Administration
+153,153,Master of Science,International Administration
+155,155,Higher Diploma,Computer Studies
+156,156,Certificate,General Business & Info Tech
+157,157,Master of Arts,Economics
+158,158,Bachelor of Arts,Politics and Government
+159,159,Bachelor of Commerce,Commerce
+161,161,Higher Diploma,Business Info. Technology
+162,162,Bachelor of Applied Science,Business Information Tech
+163,163,Master of Arts,International Relation
+164,164,Bachelor of Commerce,Accounting
+165,165,Diploma,Secretarial Course
+166,166,Master of Business Leadership,Business Leadership
+167,167,Masters,Business Administration
+168,168,Master of Business Administrat,Business Administration
+169,169,Master of Science,Public Administration
+170,170,MA in International Business,International Business
+171,171,Master of Business Administrat,Information Technology
+172,172,Master of Business Administrat,Business Administration
+173,173,Post Graduate Diploma,Accounting & Finance
+174,174,Masters,International Business
+175,175,Post Graduate Certificate,Teaching
+176,176,Masters,Business
+177,177,Ph.D,Business Administration
+178,178,Master of Business Administrat,Management
+179,179,Bachelor,marketing
+180,180,Master of Business Administrat,Finance
+181,181,Post Graduate Diploma,Human Resource Management
+182,182,Certificate of Completion,Television Production
+183,183,Master of Education,Education
+184,184,Master of Business Administrat,Business Administration
+185,185,Master of Business Administrat,Business Administration
+186,186,Bachelor of Arts,Psychology
+187,187,Master of Commerce,Business Marketing
+188,188,Bachelor of Applied Science,Business Adm Hum Resources)
+189,189,Bachelor of Applied Science,Information Management
+190,190,Bachelor of Applied Science,Information Management
+191,191,Higher Diploma,Information Administration
+192,192,Bachelor of Business Admin.,Marketing
+193,193,Bachelor,Applied Science
+194,194,Master of Science,Strategic Business & IT
+195,195,Bachelor of Science,Mechanical Engineering
+196,196,Bachelor of Business Admin.,Finance
+197,197,Higher Diploma,Information Administration
+198,198,Master of Business Administrat,Management Information System
+199,199,MA Psychology,Psychology
+200,200,Bachelor,Accounting
+201,201,Bachelor,Library Arts
+202,202,Master of Philosophy,Commerce
+203,203,Bachelor of Accounting,Economics
+204,204,Bachelor,Education
+205,205,Master of Business Administrat,Business Administration
+206,206,Certificate,Management
+207,207,Masters,Global Human Resource Mngt
+208,208,Certificate,TEFL
+209,209,Bachelor,Statistics and Econometrics
+210,210,Bachelor,Computer Science
+211,211,Bachelor,Statistics
+212,212,Bachelor of Applied Science,Business Adm Hum Resources)
+213,213,Bachelor,Commerce
+214,214,Ph.D,Social Science
+215,215,Bachelor,Computer & Information Science
+216,216,Master of Commerce,Marketing
+217,217,Bachelor of Science,Network Engineering
+218,218,Master of Business Administrat,Business Administration
+219,219,Bachelor,Political Science
+220,220,Master of Business Administrat,Business Management
+221,221,Bachelor of Applied Science,Business Adm Hum Resources)
+222,222,Executive MBA,Strategic Management
+223,223,Bachelor of Education,Eng. Lang. & Lit. Geography
+224,224,Bachelor,Commerce
+225,225,Bachelor,Business Studies
+226,226,Bachelor,Applied Maths
+227,227,Bachelor,Communication
+228,228,Bachelor,FInance MastersSupply Chain Management
+229,229,Bachelor,Accounting & Finance
+230,230,Bachelor,Economics
+231,231,Master of Business Administrat,Business Administration
+232,232,Bachelor,Geology
+233,233,Master of Business Administrat,Business Administration
+234,234,Bachelor,Chemical Engineering
+235,235,Bach of Information Technology,Information Technology
+236,236,Bachelor of Arts,English Literature
+237,237,Post Degree Certificate,Teaching & Learning
+238,238,Certificate,Management Information System
+239,239,Bachelor,Management
+240,240,Master of Education Technology,Educational Technology
+241,241,Masters,Business Administration
+242,242,Ph.D,Management
+244,244,Post Graduate Diploma,Legal Studies
+245,245,Bachelor,Accounting
+246,246,Bachelor of Arts,Business studies
+247,247,Bachelor,Accounting
+248,248,Bachelor,Accounting & Auditing
+249,249,Bachelor,Accounting & Finance
+250,250,Master of Business Administrat,Business Management
+251,251,Bachelor of Arts,Economics
+252,252,Diploma,Teaching
+254,254,Bachelor of Science,Tourism & Hotels
+255,255,Bachelor of Applied Science,Business Adm Hum Resources)
+256,256,Bachelor of Business Admin.,Business Administration
+257,257,Post Graduate Diploma,Research
+258,258,Masters,Finance
+259,259,Bachelor,English Language & Literature
+260,260,Master of Business Administrat,Business Administration
+261,261,Masters,Economics
+262,262,Bachelor of Arts,Italian and Classical Studies
+264,264,Bachelor of Applied Science,eBusiness Management
+265,265,Master of Arts,Economics
+266,266,Master of Business Administrat,Management
+267,267,Master of Business Administrat,Business Administration
+268,268,Bachelor,Sociology
+269,269,Master of Business Administrat,Marketing
+270,270,Ph.D,Psychology
+271,271,Master of Business Administrat,Business Administration
+272,272,Masters,Business Economics
+273,273,Ph.D,Business Marketing
+275,275,Higher Diploma,Computer Integrated Management
+276,276,Bachelor of Arts,Business studies
+277,277,Ph.D,Economics
+278,278,Bachelor,Finance
+279,279,Bachelor,Political Science
+280,280,Bachelor,Foreign Languages
+281,281,Bachelor,Economics
+282,282,Bachelor,Economics
+283,283,Bachelor,Civil Engineering
+284,0,Master of Arts,International Affairs
+285,1,Certificate,Management Accounting
+286,2,Associate Diploma,Business & Management
+287,3,Masters,MBA & Masters in Business Management
+288,4,Masters,Economics and International Business
+289,5,Master of Business Administrat,Business Administration
+290,6,Masters,Health Administration
+291,7,Master of Management,Business Management
+292,8,Bachelor,Hotel Management
+293,9,Higher Diploma,Business & Mgt General)
+296,12,Bachelor,Cost Accounting
+297,13,Bachelor,Business & Economics
+298,14,Bachelor of Science,Economics
+299,15,Master of Business Administrat,Public Administration
+301,17,Master of Philosophy,Economics
+303,19,Masters,International Relation
+304,20,Ph.D,Finance
+305,21,Post Graduate Diploma,
+306,22,Masters,Human Resource Management
+307,23,Masters,Economics
+308,24,Masters,international Finance and Networks Mgt and Economics
+309,25,Bachelor,Commerce
+310,26,Master of Business Administrat,Executive MBA
+311,27,Bachelor of Business Admin.,Business Administration
+312,28,Masters,Business
+313,29,Bachelor of Education,Education
+314,30,Certificate,Educational Studies
+315,31,Bachelor of Arts,Social Science
+316,32,Bachelor of Arts,French
+317,33,Bachelor,Business Economics
+318,34,Master of Business Administrat,Business Management
+319,35,PGC in Education,Education
+320,36,Bachelor,Business
+321,37,Master of Business Administrat,International Management
+322,38,Bachelor,Economics
+323,39,Bachelor of Arts,Psychology
+324,40,Master of Business Administrat,Business Administration
+325,41,Bachelor of Arts,Humanities
+326,42,Master of Business Administrat,Accounting & Finance
+327,43,Master of Business Administrat,Business Administration
+328,44,Post Graduate Certificate,Education
+329,45,Diploma,Business & Office Practice
+330,46,Bachelor of Arts,Financial Management Science
+331,47,Masters in Engineering,Oper. Resch. & Mgt. Info. Sys.
+332,48,Master of Business Administrat,Financial Management
+333,49,Masters,Economics
+334,50,Masters,Economics
+335,51,Masters,International Relations & Marketing
+336,52,Masters,International Business/ Economics
+337,53,Masters,Finance
+338,54,Masters,Islamic Law/ Jurisprudence
+339,55,Masters,Accounting
+340,56,Masters,Economic Sciences
+342,58,Masters,Electrical Engineering
+344,60,Master of Science,Strategic Management
+345,61,Master of Business Administrat,Business Administration
+346,62,Master of Business Administrat,Business Administration
+348,64,Master of Business Administrat,Business Administration
+349,65,Certificate,Training & Assessment Systems
+351,67,Bachelor,Science
+353,69,Executive MBA,Strategic Management
+354,70,Bachelor of Commerce,Commerce
+355,71,Master of Science,Industrial Technology
+356,72,Masters,Banking
+357,73,Bachelor,Commerce
+358,74,Ph.D,Business
+360,76,Master of Marketing,Marketing
+361,77,Ph.D,Business
+362,78,Certificate,Occupational Health & Safety
+363,79,Master of Business Administrat,Accounting & Finance
+364,80,Bachelor of Science,Mathematics
+366,82,Ph.D,Business Administration
+367,83,Master of Law,Commericial & Corporate Law
+368,84,Post Graduate Diploma,Transportation Management
+369,85,Master of Business Administrat,Business Administration
+370,86,Bachelor of Science,Nutrition & Dietetics
+371,87,Bachelor,Vocational Education &Training
+372,88,Master of Philosophy,Adult Education
+375,91,Bachelor of Business Admin.,Marketing
+376,92,Bachelor of Business Admin.,Business Administration
+377,93,Bachelor of Business Admin.,Business
+378,94,Masters,Economic Policy Management
+379,95,Bachelor,Business Administration
+380,96,Master of Business Administrat,Business Administration
+381,97,Bachelor of Arts,Asian Studies
+382,98,Higher Diploma,Education
+383,99,Masters,Business
+384,100,MA in Accounting,Accounting
+385,101,Bachelor,Economics
+386,102,Masters,Banking and Monetary Economics
+387,103,Masters,Accounting & Finance
+388,104,Masters,MBA
+389,105,Masters,Employment and Labour Studies
+390,106,Masters,Finance/Economic
+391,107,Masters,Social Studies/History
+393,109,Master of Arts,Teaching
+394,110,Master of Arts,Banking & Finance
+395,111,Ph.D,Management
+396,112,Master of Arts,Economics
+397,113,Bachelor,Electronics Communication
+398,114,Master of Science,Management
+399,115,Bachelor of Commerce,Commerce
+400,116,Diploma,Business Computing
+401,117,Master of Science,Business Computing Science
+402,118,Bachelor,History
+403,119,Bachelor,Business Management
+405,121,Juris Doctor,Law
+406,122,Bachelor of Arts,Mass Communication
+407,123,Bachelor,Economics
+408,124,Bachelor,Political Science
+409,125,Bachelor,Business Administration
+410,126,Bachelor of Science,Electrical Engineering
+411,127,Bachelor,Accounting & Finance
+412,128,Diploma,General Management
+413,129,Graduate Certificate,Learning Technologies
+414,130,Master of Commerce,Commerce
+415,131,Masters,Hospitality Management
+416,132,Masters,Taxation
+417,133,Masters,MBA
+419,135,Masters,Economics
+420,136,Bachelor,Business Management
+421,137,Master of Philosophy,Tourism Tourist & Hotel Mgt.
+422,138,Ph.D,Education
+424,140,BSc in Commerce,Banking & Finance
+425,141,Ph.D,Management
+427,143,Ph.D,Economics
+428,144,Bachelor,Ecological Science
+430,146,Graduate Diploma,Second Language Teaching
+431,147,AD in Banking,Banking
+433,149,Bachelor,Finance
+434,150,Doctorate in Philosophy,Management
+435,151,Master of Business Administrat,Business Administration
+436,152,Bachelor of Business Admin.,Business Administration
+437,153,Bachelor of Science,Finance
+439,155,Certificate,Adult Education
+440,156,Master of Business Administrat,Business Administration
+442,158,Juris Doctor,Law
+443,159,Doctorate in Philosophy,Commerce
+445,161,Bachelor of Applied Science,Business Info. Technology
+446,162,Masters,Quality Management
+447,163,Master of Business Administrat,Business Administration
+448,164,Master of Commerce,Accounting
+449,165,Diploma,Marketing
+450,166,Ph.D,Business Administration
+451,167,Bachelor,Management Information System
+452,168,Post Degree Certificate,Education Instructors Course
+453,169,Bachelor of Science,Public Administration
+455,171,Ph.D,Management
+456,172,Bachelor of Business Admin.,Marketing
+457,173,Bachelor,Accounting & Finance
+458,174,Ph.D,Business Administration
+459,175,Diploma,Commerce
+460,176,Master of Commerce,Finance
+461,177,Diploma,Islamic Banking
+462,178,Master of Management,Management
+463,179,Masters,Business Education and Agribusiness Administration
+464,180,Bachelor of Business Admin.,Business Administration
+465,181,Bachelor,Information Systems Management
+466,182,Certificate,Adult Education
+467,183,Diploma,Education
+468,184,Ph.D,E-Commerce
+470,186,Master of Business Administrat,Management
+471,187,Bachelor,Commerce
+472,188,Higher Diploma,Business Management
+473,189,Higher Diploma,Info. Admin. Concentration
+474,190,Higher Diploma,Info. Admin. Concentration
+475,191,Master of Science,Organizational Excellence
+476,192,Master of Business Administrat,General Management
+477,193,Higher Diploma,Applied Science
+478,194,Bachelor of Science,Economics
+479,195,Master of Science,Engineering
+480,196,Master of Business Administrat,Business Administration
+481,197,Bachelor of Applied Science,Information Management
+482,198,Cert in CELTA,CELTA
+483,199,Master of Philosophy,Management
+484,200,Masters,MBA-Accounting
+485,201,Masters,MBA
+486,202,Masters,Finance
+487,203,International Business &Market,International Marketing
+488,204,Master of Business,Business
+490,206,Mast of Applied Finance,Finance
+491,207,Masters,Commerce
+492,208,Master of Science,Educational Leadership
+493,209,Masters,Econometrics
+494,210,Masters,Computer Science
+496,212,Higher Diploma,Business Adm Hum Resources)
+497,213,Post Graduate Diploma,Business
+498,214,Bachelor of General Studies,General Studies
+499,215,Executive MBA,Strategic Management
+500,216,Diploma,Marketing
+501,217,Executive MBA,Strategic Management
+502,218,Bachelor of Business Mgmnt,Business Management
+503,219,Masters,Mgt and Public Administration
+504,220,Ph.D,Business Administration
+505,221,Higher Diploma,Business Adm Hum Resources)
+506,222,Bachelor of Science,Information Systems
+507,223,Bachelor of Arts,English
+508,224,Cert. in Mgmt Accounting,Accounting & Finance
+509,225,Masters,Management
+510,226,Master,MBA
+511,227,Masters,Finance and HRM
+513,229,Masters,Manageemnt Science
+514,230,Masters,MBA
+515,231,Master of Science,Social Studies
+516,232,Master of Business Administrat,Business Administration
+517,233,Bachelor,Chemical Engineering
+518,234,Master of Business Administrat,Business Administration
+519,235,Master of Business Administrat,E-Commerce
+520,236,Ph.D,Management
+521,237,Master of Commerce,Advanced Info Systems & Mgt
+522,238,Bachelor in Economics,Economics
+523,239,Master of Arts,Marketing Management
+524,240,Bachelor,Marketing Management
+525,241,Bachelor,Business
+526,242,Bachelor,Accounting & Finance
+528,244,Masters,Law
+529,245,Masters,Business
+530,246,MA in Teaching,Education
+531,247,Masters,MBA
+532,248,Masters,MBA- Accounting & Auditing
+533,249,Masters,Accounting & Finance
+534,250,Bachelor of Science,Business Management
+535,251,Master of Business Administrat,Business Administration
+536,252,Master of Business Administrat,Business Administration
+538,254,Master of Science,Tourism Tourist & Hotel Mgt.
+539,255,Diploma,Applied Business
+540,256,Master of Business Administrat,Business Administration
+541,257,Master of Business Administrat,Business Administration
+542,258,Bachelor,Accounting & Finance
+543,259,Masters,Computer Science
+545,261,Bachelor,Economics
+546,262,Master of Business Administrat,Risk Management & FS Analysis
+548,264,Higher Diploma,Business & Mgt Hum Resources)
+549,265,Bachelor,Political Science
+550,266,Bachelor of Business Admin.,Management Science
+552,268,Graduate Diploma,Management
+553,269,Bachelor,Commerce
+554,270,Master of Science,Occupational Psychology
+555,271,Master of Science,Energy Management
+556,272,Master of Science,Management
+557,273,Bachelor,Applied Mathematics
+559,275,Post Graduate Certificate,Further Education & Training
+560,276,Ph.D,Business Administration
+561,277,Masters,International Relation
+562,278,Masters,Finance
+563,279,Masters,European Union Economics
+564,280,Masters,American Bsuiness Culture & Marketing
+565,281,Masters,Industrial Relations & Personnel Mgt
+566,282,Masters,Industrial Engineering
+567,283,Masters,Civil Engineering and MBA
+568,0,Master of Business Administrat,Business Administration
+569,1,Master of Science,Business Info. Technology
+570,2,Master of Business Administrat,Marketing
+574,6,Post Degree Certificate,Finance
+575,7,Certificate,Teaching
+576,8,Certificate,Training & Assessment Systems
+580,12,Ph.D,Commerce & Management Studies
+583,15,Post Graduate Certificate,Education
+585,17,Ph.D,Economics
+587,19,Diploma,Physical Education
+589,21,Certificate,
+590,22,Masters,Marketing
+593,25,Master of Commerce,Commerce
+594,26,Post Graduate Diploma,Business studies
+596,28,Masters,Psychology
+597,29,Master of Commerce,Labor Management
+598,30,Masters,International Business
+599,31,Master of Business Administrat,Business Administration
+600,32,Master of Business Administrat,Leadership & Management
+601,33,Post Graduate Diploma,Education
+603,35,Bachelor of Arts,Asso.of Accounting Technicians
+606,38,Masters,Business Management
+608,40,Bachelor,Finance
+609,41,Post Graduate Certificate,Education
+610,42,Master of Arts,Leadership & Management
+612,44,Master of Business Administrat,Business
+613,45,Doctorate in Marketing,Marketing
+614,46,Bachelor,Investment Management
+616,48,A Level,
+633,65,Bachelor of Business,Marketing
+638,70,Master of Philosophy,Management
+641,73,Master of Business Administrat,Business Administration
+642,74,Bachelor of Commerce,Tourism Management
+645,77,Masters,Business
+646,78,Graduate Diploma,Vocational Education &Training
+647,79,Ph.D,Applied Business
+648,80,Master of Management,Management
+651,83,Bachelor of Law,Law
+652,84,Masters,Finance
+655,87,Graduate Certificate,Tourism Management
+656,88,Bachelor of Arts,Business Management
+661,93,Master of Business Administrat,Finance
+663,95,Certificate,Educational Studies
+664,96,Master of Commerce,Accounting
+665,97,Master of Science,Management
+666,98,Ph.D,Internal Auditing
+678,110,Ph.D,Banking
+681,113,Master of Business Administrat,Business Administration
+682,114,Bachelor of Science,Secondary Education
+683,115,Master of Science,Forensic Accounting
+684,116,Higher Diploma,Graphic Arts
+685,117,Master of Science,Economics
+686,118,Ph.D,Business Management
+687,119,Higher Diploma,eBusiness Management
+689,121,Master of Business Administrat,Management
+691,123,Post Degree Certificate,Teaching
+692,124,Master of Science,TESOL
+695,127,Master of Science,Integrtd Textile & Apparel Sci
+696,128,Graduateship,Marketing
+697,129,Master of Business Administrat,Human Resource Management
+703,135,Ph.D,Interdisciplinary Studies
+704,136,Ph.D,Human Resource Management
+706,138,Associate Degree,Business Administration
+708,140,Ph.D,Business Management
+711,143,Masters,International Economics
+712,144,Masters,International Business
+714,146,Masters,Applied  Linguistics
+718,150,Master of Business Administrat,Finance
+719,151,Bachelor,Commerce
+723,155,Post Graduate Diploma,Economics
+724,156,Bachelor of Applied Science,Business Adm General)
+726,158,Masters,International Management
+727,159,Bachelor of Science,Accounting
+729,161,Executive MBA,Business
+730,162,Higher Diploma,Business Information Tech
+731,163,Ph.D,International Education
+732,164,Certificate,Chartered Accountant
+733,165,Bachelor of Arts,Social Studies
+734,166,Master of Arts,Psychology
+736,168,Bachelor,Commerce
+737,169,Ph.D,Organisation Mgmt IT Mgmt
+741,173,Masters,Accounting & Finance
+743,175,Masters of Distance Education,Education
+744,176,Bachelor of Commerce,Commerce
+745,177,Bachelor,Arts
+746,178,Certificate,Economics
+748,180,Certificate,CELTA
+749,181,Master of Business Administrat,Executive MBA
+750,182,PGD in Business Administration,Management
+752,184,Bachelor of Science,Animal Science
+759,191,Bachelor of Applied Science,Information Management
+766,198,Bachelor of Business Admin.,Management Information System
+767,199,Master of Arts,
+771,203,Master of Business Administrat,Business Administration
+774,206,Master of Business Administrat,Business Administration
+776,208,Certificate,Teaching
+781,213,Master of Philosophy,Management
+782,214,Master of Arts,Educational Leadership
+784,216,Bachelor in Economics,Economics
+787,219,Ph.D,Marketing
+788,220,Bachelor of Science,Business Management
+791,223,Master of Business Administrat,Business Administration
+792,224,Master of Business Administrat,Innovative Management
+797,229,Accounting & Finance),
+799,231,Bachelor of Management Studies,Accounting
+800,232,Masters,Geology
+804,236,Master of Arts,Public Administration
+805,237,Post Graduate Diploma,Marketing
+806,238,Master of Business Administrat,Human Resource Management
+807,239,Higher Diploma,Hospitality Management
+809,241,Master of Philosophy,Business
+810,242,Graduate Certificate,Tertiary Teaching and Learning
+820,252,Post Degree Certificate,Management Accounting
+823,255,Certificate,General Business
+825,257,Masters,Marketing
+826,258,Post Degree Certificate,
+827,259,Ph.D,Computing
+829,261,Masters,Economics
+830,262,Higher Diploma,Education
+833,265,Bachelor,Economics
+836,268,Master of Business Administrat,Agricultural  Economics
+837,269,Ph.D,Management
+841,273,Masters,Marketing
+843,275,Master of Business Administrat,Business Administration
+844,276,Master of Arts,Hospitality Management
+845,277,Bachelor,Business Finance
+854,2,Bachelor of Commerce,Human Resources
+858,6,Post Graduate Certificate,Accounting & Finance
+859,7,Doctorate in Business Admin,Business
+867,15,Bachelor of Arts,Applied Social Studies
+871,19,Masters,Business Management
+873,21,Master of Business Administrat,Human Resource Management
+880,28,Bachelor,Psychology
+882,30,Post Graduate Diploma,Executive Human Resources Mgt
+885,33,Masters,Commerce
+890,38,Ph.D,eBusiness Policy Development
+894,42,Post Degree Certificate,Education
+896,44,Bachelor of Arts,Geography
+897,45,Bachelor of English Language,Language & Literature
+900,48,Post Degree Certificate,Research Methods
+917,65,Masters,Intl Law and Intl Relations
+922,70,Ph.D,Banking
+926,74,Certificate,Training & Assessment Systems
+930,78,Master of Business,Operation Management
+931,79,Master of Philosophy,Commerce
+936,84,Masters,Logistics Engineering
+950,98,Bachelor,Accounting & Finance
+962,110,Bachelor,Economics
+968,116,Certificate,CELTA
+975,123,Masters,Information Management
+981,129,Diploma,Teaching
+987,135,Bachelor,Electronics & Instrumentation
+988,136,Certificate,Law
+990,138,Masters,Software Development
+998,146,Master of Science,Training & Performance Mgt.
+1007,155,Master of Professional Studies,Information Technology
+1008,156,Diploma,Applied Business Skills
+1011,159,Master of Commerce,Commerce
+1016,164,Doctorate in Philosophy,Accounting
+1017,165,Certificate,Marketing
+1025,173,Ph.D,Commerce
+1029,177,Master of Business Administrat,Business Administration
+1032,180,Diploma,English
+1033,181,Graduate Certificate,Tertiary Teaching and Learning
+1034,182,Bachelor,Comm. Mgt & Journalism Studies
+1036,184,Post Graduate Certificate,Educating/Teaching Adult
+1051,199,Bachelor,Management Science
+1058,206,Diploma,Management
+1060,208,Bachelor of Business,Marketing
+1065,213,Masters,Management Accounting
+1072,220,Bachelor of Arts,Political Science
+1076,224,Certificate,Computer Programming
+1088,236,Master of Business Administrat,Human Resource Management
+1089,237,Bachelor,Marketing
+1090,238,Post Graduate Certificate,Project Management
+1094,242,Masters,Business
+1104,252,Bachelor of Business Admin.,Business Administration
+1107,255,Higher Diploma,Business & Mgt Hum Resources)
+1109,257,Bachelor of Science,Computer & Information System
+1127,275,Bachelor,Microbiology
+1129,277,A Level,Science Education
+1138,2,Certificate,Applied Business
+1142,6,Post Degree Certificate,Training & HR Management
+1164,28,Ph.D,Psychology
+1184,48,Bachelor of Arts,Economics
+1214,78,Certificate,Training & Assessment Systems
+1234,98,Masters,Taxation
+1252,116,Master of Business Administrat,Total Quality Management
+1265,129,Master of Education,TESOL
+1272,136,Master of Business Administrat,Human Resource Management
+1274,138,Bachelor of Science,Computer & Information Science
+1282,146,Bachelor of Education,Asian Studies
+1291,155,Certificate,Adult & Vocational Education
+1292,156,Higher Diploma,Business & Mgt General)
+1301,165,Master of Business Administrat,Business Administration
+1313,177,Mast of Applied Finance,Finance
+1318,182,Master of Management,International Business
+1320,184,Master of Arts,Media Communications
+1335,199,Masters,Management Science
+1349,213,Ph.D,Commerce
+1373,237,Post Degree Certificate,Educational Studies
+1374,238,Post Degree Certificate,Training & HR Management
+1391,255,Bachelor of Education,Career Advising & Counseling
+1411,275,Post Graduate Certificate,Education
+1498,78,Bachelor of Commerce,Operation Management
+1518,98,Post Graduate Diploma,Accounting & Finance
+1536,116,Diploma,Management
+1575,155,Post Graduate Certificate,Business
+1604,184,Master of Arts,International Relation
+1695,275,Post Degree Certificate,Computerized Accounts
+1782,78,Diploma,Marketing Management
+1859,155,Bachelor,Arts
+1888,184,Master of Arts,International Business
+2066,78,Diploma,Assessment & Workplace Train.
+2143,155,Bachelor,Business IT
+2427,155,Diploma,Computer Studies
+2711,155,Certificate,Adult Education
+2995,155,Master of Business Administrat,Marketing
